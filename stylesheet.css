@@ -1,0 +1,24 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 32px;
+	padding: 100px;
+}
+
+a { text-decoration: none; }
+
+a:link { color: #4285F4; }
+
+a:visited { color: #F50057; }
+
+h2 { 
+	font-family: 'Montserrat Black'; 
+	font-size: 100px;
+	max-width: 500px;
+}
+
+li { font-size: 24px; }
+
+h3 { 
+	font-family: 'Montserrat Light';
+	font-size: 18px;
+}
