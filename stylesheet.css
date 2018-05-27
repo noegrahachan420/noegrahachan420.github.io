@@ -23,6 +23,7 @@ h3 {
 	font-size: 18px;
 }
 
-sub {
+.sub {
+	vertical-align: sub;
 	font-size: 18px;
 }
